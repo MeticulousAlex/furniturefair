@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/furniturefare/static/css/main.ad830827.css",
+    "main.js": "/furniturefare/static/js/main.e8188f94.js",
+    "static/js/453.71570585.chunk.js": "/furniturefare/static/js/453.71570585.chunk.js",
+    "static/media/silly_staring_cat.png": "/furniturefare/static/media/silly_staring_cat.caf4babe25c819831b41.png",
+    "index.html": "/furniturefare/index.html",
+    "main.ad830827.css.map": "/furniturefare/static/css/main.ad830827.css.map",
+    "main.e8188f94.js.map": "/furniturefare/static/js/main.e8188f94.js.map",
+    "453.71570585.chunk.js.map": "/furniturefare/static/js/453.71570585.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad830827.css",
+    "static/js/main.e8188f94.js"
+  ]
+}
