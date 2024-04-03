@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/furniturefare/static/css/main.ad830827.css",
-    "main.js": "/furniturefare/static/js/main.e8188f94.js",
+    "main.css": "/furniturefare/static/css/main.4f80933e.css",
+    "main.js": "/furniturefare/static/js/main.9c839be7.js",
     "static/js/453.71570585.chunk.js": "/furniturefare/static/js/453.71570585.chunk.js",
-    "static/media/silly_staring_cat.png": "/furniturefare/static/media/silly_staring_cat.caf4babe25c819831b41.png",
+    "static/media/divan_2.jpg": "/furniturefare/static/media/divan_2.585847cf73591bfdaaa5.jpg",
+    "static/media/divan_1.jpg": "/furniturefare/static/media/divan_1.6f4fd75fcae81afd1f23.jpg",
+    "static/media/stol2.jpg": "/furniturefare/static/media/stol2.30a0db8c332b10f76aed.jpg",
+    "static/media/rack_1.jpg": "/furniturefare/static/media/rack_1.f9c3c4ca1c32fb7171b6.jpg",
+    "static/media/rack.jpg": "/furniturefare/static/media/rack.0d3956a1d9e67638d2d8.jpg",
+    "static/media/divan_3.jpg": "/furniturefare/static/media/divan_3.ab2ddb075befda893a0f.jpg",
+    "static/media/lamp.jpg": "/furniturefare/static/media/lamp.e812461df85e28eec18e.jpg",
+    "static/media/stol_1.jpg": "/furniturefare/static/media/stol_1.f762e1409cfa8dbe4f67.jpg",
     "index.html": "/furniturefare/index.html",
-    "main.ad830827.css.map": "/furniturefare/static/css/main.ad830827.css.map",
-    "main.e8188f94.js.map": "/furniturefare/static/js/main.e8188f94.js.map",
+    "main.4f80933e.css.map": "/furniturefare/static/css/main.4f80933e.css.map",
+    "main.9c839be7.js.map": "/furniturefare/static/js/main.9c839be7.js.map",
     "453.71570585.chunk.js.map": "/furniturefare/static/js/453.71570585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad830827.css",
-    "static/js/main.e8188f94.js"
+    "static/css/main.4f80933e.css",
+    "static/js/main.9c839be7.js"
   ]
 }
