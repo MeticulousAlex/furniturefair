@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/furniturefare/static/css/main.2085c15a.css",
-    "main.js": "/furniturefare/static/js/main.207f35d2.js",
+    "main.css": "/furniturefare/static/css/main.6356778b.css",
+    "main.js": "/furniturefare/static/js/main.7de6958e.js",
     "static/js/453.71570585.chunk.js": "/furniturefare/static/js/453.71570585.chunk.js",
     "static/media/divan_2.jpg": "/furniturefare/static/media/divan_2.585847cf73591bfdaaa5.jpg",
     "static/media/divan_1.jpg": "/furniturefare/static/media/divan_1.6f4fd75fcae81afd1f23.jpg",
     "static/media/stol2.jpg": "/furniturefare/static/media/stol2.30a0db8c332b10f76aed.jpg",
     "static/media/rack_1.jpg": "/furniturefare/static/media/rack_1.f9c3c4ca1c32fb7171b6.jpg",
     "static/media/rack.jpg": "/furniturefare/static/media/rack.0d3956a1d9e67638d2d8.jpg",
+    "static/media/fridge1.jpg": "/furniturefare/static/media/fridge1.7411b5c11d536e8d1dd3.jpg",
     "static/media/divan_3.jpg": "/furniturefare/static/media/divan_3.ab2ddb075befda893a0f.jpg",
     "static/media/lamp.jpg": "/furniturefare/static/media/lamp.e812461df85e28eec18e.jpg",
     "static/media/stol_1.jpg": "/furniturefare/static/media/stol_1.f762e1409cfa8dbe4f67.jpg",
+    "static/media/fridge3.jpg": "/furniturefare/static/media/fridge3.8cc4a1eef3085a1a657f.jpg",
+    "static/media/fridge2.jpg": "/furniturefare/static/media/fridge2.65b0aa49cea20a7e67b0.jpg",
+    "static/media/frige4.jpg": "/furniturefare/static/media/frige4.cbff95371dcf03a8eff1.jpg",
     "index.html": "/furniturefare/index.html",
-    "main.2085c15a.css.map": "/furniturefare/static/css/main.2085c15a.css.map",
-    "main.207f35d2.js.map": "/furniturefare/static/js/main.207f35d2.js.map",
+    "main.6356778b.css.map": "/furniturefare/static/css/main.6356778b.css.map",
+    "main.7de6958e.js.map": "/furniturefare/static/js/main.7de6958e.js.map",
     "453.71570585.chunk.js.map": "/furniturefare/static/js/453.71570585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2085c15a.css",
-    "static/js/main.207f35d2.js"
+    "static/css/main.6356778b.css",
+    "static/js/main.7de6958e.js"
   ]
 }
