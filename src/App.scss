@@ -6,8 +6,8 @@
   text-align: center;
   background-color: #e5e5f7;
   background-color: #e5e5f7;
-opacity: 1;
-background-color: #222;
+  opacity: 1;
+  background-color: #222;
 }
 
 /*----------------------------------*/
@@ -32,7 +32,7 @@ background-color: #222;
 
 .gradient {
   --size: 250px;
-  --speed: 50s;
+  --speed: 30s;
   --easing: cubic-bezier(0.8, 0.2, 0.2, 0.8);
   position:absolute;
   left:auto;
@@ -54,7 +54,7 @@ background-color: #222;
 .App-header {
   background-color: #222;
   position: block;
-  width:50%;
+  width:60%;
   height: 450px;
   border-radius:260px;
   inset: 0;
@@ -63,6 +63,7 @@ background-color: #222;
   place-content: center;
   align-items: center;
   overflow: hidden;
+  gap:20px;
 }
 
 .header{
@@ -74,6 +75,7 @@ background-color: #222;
 .info{
   color:white;
   z-index:2;
+  width:400px;
 }
 
 * {
@@ -93,7 +95,13 @@ background-color: #222;
     border-radius: 25px;
     background: 
       linear-gradient(#222, #222) padding-box, 
-      var(--gradient-10) border-box;
+      var(--gradient-21) border-box;
+
+    @media screen and (max-width:1279px) {
+      border:none;
+      border-radius:0;
+      border-bottom:solid 4px transparent;
+    }
   }
 }
 
@@ -107,6 +115,10 @@ background-color: #222;
   align-items:center;
   border-radius:20px;
   gap:30px;
+
+  @media screen and (max-width:1279px) {
+    width:90%;
+  }
 }
 /*------------------------------------*/
 
@@ -120,20 +132,53 @@ background-color: #222;
   padding:calc(500px*0.05) calc(500px*0.05) calc(500px*0.05) 0;
   box-sizing: border-box;
   gap:20px;
+
+  @media screen and (max-width:1279px) {
+    flex-direction: column;
+    align-items: center;
+    max-height:none;
+    padding:0;
+    box-sizing: content-box;
+  }
+
 }
 
 .caroussel{
   width:calc(500px*0.95);
   height:calc(500px*0.70);
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  @media screen and (max-width:1279px) {
+    width:100%;
+    height:auto;
+  }
 }
 
 .card__picture{
   width:calc(500px*0.70);
-  padding-bottom:calc(500px*0.70);
   border-radius:10px;
-  background-image: url("./silly_staring_cat.png");
+  max-height:calc(500px*0.70);
   background-repeat: no-repeat;
-  background-size:cover;
+  object-fit: cover;
+
+  @media screen and (max-width:1279px) {
+   width:90%;
+   max-height: none;
+  }
+}
+
+.long{
+  width:calc(800px*0.70);
+  @media screen and (max-width:1279px) {
+    max-width:100%;
+  }
+}
+
+.slide{
+  display:flex;
+  align-items:center;
+  justify-content: center;
 }
 
 .card__info{
@@ -144,6 +189,17 @@ background-color: #222;
   flex-direction:column;
   align-items:center;
   gap:30px;
+
+  @media screen and (max-width:1279px) {
+    width:100%;
+  }
+}
+
+.short-info{
+  width:50%;
+  @media screen and (max-width:1279px) {
+    width:100%;
+  }
 }
 
 .card__header{
@@ -154,12 +210,49 @@ background-color: #222;
   margin-bottom:auto;
 }
 
+/*----------SPECIAL SETTINGS------------------------*/
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.table-two{
+  aspect-ratio: 1.3;
+  object-position: 45%;
+}
+
+/*-----------Adaptives-----------*/
+
+@media screen and (max-width:1279px) {
+  .rack-one{
+    width:100%;
+    aspect-ratio: 0.65;
   }
-  to {
-    transform: rotate(360deg);
+  .rack-two{
+    width:100%;
+    aspect-ratio: 0.65;
+  }
+
+  .lamp{
+    width:100%;
+  }
+
+  .stol1{
+    height:70%;
+  }
+
+  .table-two{
+    width:100%;
+  }
+
+
+  .divan1{
+    aspect-ratio:1.3;
+    
+  }
+
+  .divan2{
+    aspect-ratio:1.3;
+    object-position: 37% 30%;
+  }
+  .divan3{
+    aspect-ratio:1;
+    object-position: 37% 30%;
   }
 }
