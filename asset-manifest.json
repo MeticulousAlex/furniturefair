@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/furniturefare/static/css/main.f33bce08.css",
+    "main.css": "/furniturefare/static/css/main.7ee6112d.css",
     "main.js": "/furniturefare/static/js/main.ab10ad5c.js",
     "static/js/453.71570585.chunk.js": "/furniturefare/static/js/453.71570585.chunk.js",
     "static/media/kettle3.jpg": "/furniturefare/static/media/kettle3.005581d1698576ab03b8.jpg",
@@ -20,12 +20,12 @@
     "static/media/frige4.jpg": "/furniturefare/static/media/frige4.cbff95371dcf03a8eff1.jpg",
     "static/media/lamp2.jpg": "/furniturefare/static/media/lamp2.6aa6f94d511614a501d6.jpg",
     "index.html": "/furniturefare/index.html",
-    "main.f33bce08.css.map": "/furniturefare/static/css/main.f33bce08.css.map",
+    "main.7ee6112d.css.map": "/furniturefare/static/css/main.7ee6112d.css.map",
     "main.ab10ad5c.js.map": "/furniturefare/static/js/main.ab10ad5c.js.map",
     "453.71570585.chunk.js.map": "/furniturefare/static/js/453.71570585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f33bce08.css",
+    "static/css/main.7ee6112d.css",
     "static/js/main.ab10ad5c.js"
   ]
 }
