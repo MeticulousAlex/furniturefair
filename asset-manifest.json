@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/furniturefare/static/css/main.77f2fc9e.css",
-    "main.js": "/furniturefare/static/js/main.8ea28c0b.js",
+    "main.css": "/furniturefare/static/css/main.c3f7c6aa.css",
+    "main.js": "/furniturefare/static/js/main.df239b3a.js",
     "static/js/453.71570585.chunk.js": "/furniturefare/static/js/453.71570585.chunk.js",
+    "static/media/frying_pan3.jpg": "/furniturefare/static/media/frying_pan3.ce85c91822fa522ff242.jpg",
+    "static/media/frying_pan4.jpg": "/furniturefare/static/media/frying_pan4.40419485de8c31e430db.jpg",
     "static/media/bootrack2.jpg": "/furniturefare/static/media/bootrack2.d0f8e5f1e9dadc971ff9.jpg",
+    "static/media/frying_pan1.jpg": "/furniturefare/static/media/frying_pan1.f184d41a83a907891a98.jpg",
     "static/media/kettle3.jpg": "/furniturefare/static/media/kettle3.005581d1698576ab03b8.jpg",
     "static/media/bed2.jpg": "/furniturefare/static/media/bed2.8675c511c853734b0344.jpg",
     "static/media/bed3.jpg": "/furniturefare/static/media/bed3.0d435acbe6c6628c8cd9.jpg",
+    "static/media/frying_pan6.jpg": "/furniturefare/static/media/frying_pan6.fa67519fec286e781fe8.jpg",
     "static/media/bed4.jpg": "/furniturefare/static/media/bed4.8db623dba581d89badce.jpg",
     "static/media/bootrack1.jpg": "/furniturefare/static/media/bootrack1.8f9f09031257b427ebdc.jpg",
     "static/media/bed1.jpg": "/furniturefare/static/media/bed1.4665abe4475210ab1eae.jpg",
@@ -25,14 +29,16 @@
     "static/media/fridge3.jpg": "/furniturefare/static/media/fridge3.8cc4a1eef3085a1a657f.jpg",
     "static/media/fridge2.jpg": "/furniturefare/static/media/fridge2.65b0aa49cea20a7e67b0.jpg",
     "static/media/frige4.jpg": "/furniturefare/static/media/frige4.cbff95371dcf03a8eff1.jpg",
+    "static/media/frying_pan5.jpg": "/furniturefare/static/media/frying_pan5.bcd18512df1ac919685a.jpg",
     "static/media/lamp2.jpg": "/furniturefare/static/media/lamp2.6aa6f94d511614a501d6.jpg",
+    "static/media/frying_pan7.jpg": "/furniturefare/static/media/frying_pan7.e7f734c9c92006f3f27b.jpg",
     "index.html": "/furniturefare/index.html",
-    "main.77f2fc9e.css.map": "/furniturefare/static/css/main.77f2fc9e.css.map",
-    "main.8ea28c0b.js.map": "/furniturefare/static/js/main.8ea28c0b.js.map",
+    "main.c3f7c6aa.css.map": "/furniturefare/static/css/main.c3f7c6aa.css.map",
+    "main.df239b3a.js.map": "/furniturefare/static/js/main.df239b3a.js.map",
     "453.71570585.chunk.js.map": "/furniturefare/static/js/453.71570585.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77f2fc9e.css",
-    "static/js/main.8ea28c0b.js"
+    "static/css/main.c3f7c6aa.css",
+    "static/js/main.df239b3a.js"
   ]
 }
