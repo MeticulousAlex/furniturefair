@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/furniturefare/static/css/main.c3f7c6aa.css",
-    "main.js": "/furniturefare/static/js/main.28062ae1.js",
+    "main.js": "/furniturefare/static/js/main.77968571.js",
     "static/js/453.8e37f98c.chunk.js": "/furniturefare/static/js/453.8e37f98c.chunk.js",
     "static/media/frying_pan3.jpg": "/furniturefare/static/media/frying_pan3.ce85c91822fa522ff242.jpg",
     "static/media/dryer2.jpg": "/furniturefare/static/media/dryer2.6ed66fc8a0695053bc27.jpg",
@@ -56,11 +56,11 @@
     "static/media/plates4.jpg": "/furniturefare/static/media/plates4.700c95478f7bbf773776.jpg",
     "index.html": "/furniturefare/index.html",
     "main.c3f7c6aa.css.map": "/furniturefare/static/css/main.c3f7c6aa.css.map",
-    "main.28062ae1.js.map": "/furniturefare/static/js/main.28062ae1.js.map",
+    "main.77968571.js.map": "/furniturefare/static/js/main.77968571.js.map",
     "453.8e37f98c.chunk.js.map": "/furniturefare/static/js/453.8e37f98c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3f7c6aa.css",
-    "static/js/main.28062ae1.js"
+    "static/js/main.77968571.js"
   ]
 }
