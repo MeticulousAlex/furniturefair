@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/furniturefare/static/css/main.c3f7c6aa.css",
-    "main.js": "/furniturefare/static/js/main.b2b18ef2.js",
+    "main.js": "/furniturefare/static/js/main.28062ae1.js",
     "static/js/453.8e37f98c.chunk.js": "/furniturefare/static/js/453.8e37f98c.chunk.js",
     "static/media/frying_pan3.jpg": "/furniturefare/static/media/frying_pan3.ce85c91822fa522ff242.jpg",
+    "static/media/dryer2.jpg": "/furniturefare/static/media/dryer2.6ed66fc8a0695053bc27.jpg",
     "static/media/frying_pan4.jpg": "/furniturefare/static/media/frying_pan4.40419485de8c31e430db.jpg",
+    "static/media/dryer1.jpg": "/furniturefare/static/media/dryer1.4d8b19954f958a04908e.jpg",
     "static/media/bootrack2.jpg": "/furniturefare/static/media/bootrack2.d0f8e5f1e9dadc971ff9.jpg",
     "static/media/double_pan4.jpg": "/furniturefare/static/media/double_pan4.ebe26299fc3459f1064d.jpg",
     "static/media/frying_pan1.jpg": "/furniturefare/static/media/frying_pan1.f184d41a83a907891a98.jpg",
@@ -20,7 +22,7 @@
     "static/media/divan_2.jpg": "/furniturefare/static/media/divan_2.585847cf73591bfdaaa5.jpg",
     "static/media/divan_1.jpg": "/furniturefare/static/media/divan_1.6f4fd75fcae81afd1f23.jpg",
     "static/media/stol2.jpg": "/furniturefare/static/media/stol2.30a0db8c332b10f76aed.jpg",
-    "static/media/handled_pan3.jpg": "/furniturefare/static/media/handled_pan3.b77ae4bbe9f35e10cbec.jpg",
+    "static/media/handled_pan4_square.jpg": "/furniturefare/static/media/handled_pan4_square.afb353c51df578c7996c.jpg",
     "static/media/rack_1.jpg": "/furniturefare/static/media/rack_1.f9c3c4ca1c32fb7171b6.jpg",
     "static/media/rack.jpg": "/furniturefare/static/media/rack.0d3956a1d9e67638d2d8.jpg",
     "static/media/clocks.jpg": "/furniturefare/static/media/clocks.e8fb4a31e4ec76733dc7.jpg",
@@ -54,11 +56,11 @@
     "static/media/plates4.jpg": "/furniturefare/static/media/plates4.700c95478f7bbf773776.jpg",
     "index.html": "/furniturefare/index.html",
     "main.c3f7c6aa.css.map": "/furniturefare/static/css/main.c3f7c6aa.css.map",
-    "main.b2b18ef2.js.map": "/furniturefare/static/js/main.b2b18ef2.js.map",
+    "main.28062ae1.js.map": "/furniturefare/static/js/main.28062ae1.js.map",
     "453.8e37f98c.chunk.js.map": "/furniturefare/static/js/453.8e37f98c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3f7c6aa.css",
-    "static/js/main.b2b18ef2.js"
+    "static/js/main.28062ae1.js"
   ]
 }
