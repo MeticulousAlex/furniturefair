@@ -2,65 +2,65 @@ import './App.scss';
 import '@splidejs/react-splide/css';
 import { Splide, SplideSlide } from '@splidejs/react-splide';
 
-import stol2 from './stol_1.jpg';
-import stol1 from './stol2.jpg';
-import divan1 from './divan_1.jpg';
-import divan2 from './divan_2.jpg';
-import divan3 from './divan_3.jpg';
-import rack1 from './rack_1.jpg';
-import rack2 from './rack.jpg';
-import lamp1 from './lamp.jpg';
-import lamp2 from './lamp2.jpg';
-import fridge1 from './fridge1.jpg';
-import fridge2 from './fridge2.jpg';
-import fridge3 from './fridge3.jpg';
-import fridge4 from './frige4.jpg';
-import kettle1 from './kettle1.jpg';
-import kettle2 from './kettle2.jpg';
-import kettle3 from './kettle3.jpg'
-import clocks from './clocks.jpg'
-import bed1 from './bed1.jpg'
-import bed2 from './bed2.jpg'
-import bed3 from './bed3.jpg'
-import bed4 from './bed4.jpg'
-import bootrack1 from './bootrack1.jpg'
-import bootrack2 from './bootrack2.jpg'
-import fryingpan1 from './frying_pan1.jpg'
-import fryingpan2 from './frying_pan3.jpg'
-import fryingpan3 from './frying_pan4.jpg'
-import fryingpan4 from './frying_pan5.jpg'
-import fryingpan5 from './frying_pan6.jpg'
-import fryingpan6 from './frying_pan7.jpg'
+import stol2 from './images/stol_1.jpg';
+import stol1 from './images/stol2.jpg';
+import divan1 from './images/divan_1.jpg';
+import divan2 from './images/divan_2.jpg';
+import divan3 from './images/divan_3.jpg';
+import rack1 from './images/rack_1.jpg';
+import rack2 from './images/rack.jpg';
+import lamp1 from './images/lamp.jpg';
+import lamp2 from './images/lamp2.jpg';
+import fridge1 from './images/fridge1.jpg';
+import fridge2 from './images/fridge2.jpg';
+import fridge3 from './images/fridge3.jpg';
+import fridge4 from './images/frige4.jpg';
+import kettle1 from './images/kettle1.jpg';
+import kettle2 from './images/kettle2.jpg';
+import kettle3 from './images/kettle3.jpg'
+import clocks from './images/clocks.jpg'
+import bed1 from './images/bed1.jpg'
+import bed2 from './images/bed2.jpg'
+import bed3 from './images/bed3.jpg'
+import bed4 from './images/bed4.jpg'
+import bootrack1 from './images/bootrack1.jpg'
+import bootrack2 from './images/bootrack2.jpg'
+import fryingpan1 from './images/frying_pan1.jpg'
+import fryingpan2 from './images/frying_pan3.jpg'
+import fryingpan3 from './images/frying_pan4.jpg'
+import fryingpan4 from './images/frying_pan5.jpg'
+import fryingpan5 from './images/frying_pan6.jpg'
+import fryingpan6 from './images/frying_pan7.jpg'
 
-import doublepan1 from './double_pan1.jpg'
-import doublepan2 from './double_pan2.jpg'
-import doublepan3 from './double_pan3.jpg'
-import doublepan4 from './double_pan4.jpg'
-import doublepan5 from './double_pan5.jpg'
+import doublepan1 from './images/double_pan1.jpg'
+import doublepan2 from './images/double_pan2.jpg'
+import doublepan3 from './images/double_pan3.jpg'
+import doublepan4 from './images/double_pan4.jpg'
+import doublepan5 from './images/double_pan5.jpg'
 
-import handledpan1 from './handled_pan1.jpg'
-import handledpan2 from './handled_pan5.jpg'
-import handledpan3 from './handled_pan2.jpg'
-import handledpan4 from './handled_pan4_square.jpg'
-import handledpan5 from './handled_pan6.jpg'
+import handledpan1 from './images/handled_pan1.jpg'
+import handledpan2 from './images/handled_pan5.jpg'
+import handledpan3 from './images/handled_pan2.jpg'
+import handledpan4 from './images/handled_pan4_square.jpg'
+import handledpan5 from './images/handled_pan6.jpg'
 
-import plates1 from './plates1.jpg'
-import plates2 from './plates3.jpg'
-import plates3 from './plates4.jpg'
-import plates4 from './plates5.jpg'
+import plates1 from './images/plates1.jpg'
+import plates2 from './images/plates3.jpg'
+import plates3 from './images/plates4.jpg'
+import plates4 from './images/plates5.jpg'
 
-import bowls1 from './bowls1.jpg'
-import bowls2 from './bowls2.jpg'
+import bowls1 from './images/bowls1.jpg'
+import bowls2 from './images/bowls2.jpg'
 
-import cutlery1 from './cutlery1.jpg'
-import cutlery2 from './cutlery2.jpg'
+import cutlery1 from './images/cutlery1.jpg'
+import cutlery2 from './images/cutlery2.jpg'
 
-import scoops1 from './scoops1.jpg'
+import scoops1 from './images/scoops1.jpg'
 
-import chair1 from './chair1.jpg'
+import chair1 from './images/chair1.jpg'
 
-import dryer1 from './dryer1.jpg'
-import dryer2 from './dryer2.jpg'
+import dryer1 from './images/dryer1.jpg'
+import dryer2 from './images/dryer2.jpg'
 
 import React from 'react';
 import HowToBuy from './HowToBuy/HowToBuy';
